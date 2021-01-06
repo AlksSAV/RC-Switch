@@ -10,5 +10,3 @@ Switch #2 can operate in two modes:
 
 Connecting and Programming Digispark
 http://digistump.com/wiki/digispark/tutorials/connecting
-
-
