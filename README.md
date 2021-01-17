@@ -8,5 +8,4 @@ Switch #2 can operate in two modes:
  - The switch turns on the second device but turns off the first one.
  - The switch turns on the second device and the first device continues to work.
 
-Connecting and Programming Digispark
-http://digistump.com/wiki/digispark/tutorials/connecting
+[Connecting and Programming Digispark](http://digistump.com/wiki/digispark/tutorials/connecting)
