@@ -5,6 +5,11 @@ The project is included for radio-controlled models. The basis is the Attiny 85 
 
 ![Screenshot](picgitt.png)
 
+Required components:
+ - Attiny85                       https://ali.ski/pjl5R2
+ - Resistor 1K                    https://ali.ski/WSabn
+ - Transistor TIP120              https://ali.ski/ivUg7l
+
 Switch #1 always works in on and off mode. 
 Switch #2 can operate in two modes:
  - The switch turns on the second device but turns off the first one.
