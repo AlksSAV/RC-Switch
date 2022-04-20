@@ -3,6 +3,10 @@
 
 The project is included for radio-controlled models. The basis is the Attiny 85 microcontroller. The switch allows you to switch devices with a separate power supply, different from the main on-board power supply.
 
+An example of the work on my channel 
+https://youtu.be/ay8xG-RWj8s
+
+https://youtu.be/CZe1E0ldRTg
 ![Screenshot](picgitt.png)
 
 Required components:
