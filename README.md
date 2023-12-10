@@ -10,9 +10,9 @@ https://youtu.be/CZe1E0ldRTg
 ![Screenshot](picgitt.png)
 
 Required components:
- - Attiny85                       https://ali.ski/pjl5R2
- - Resistor 1K                    https://ali.ski/WSabn
- - Transistor TIP120              https://ali.ski/ivUg7l
+ - Attiny85                       https://megabonus.com/y/0Pf4B
+ - Resistor 1K                    https://megabonus.com/y/hwOI7
+ - Transistor TIP120              https://megabonus.com/y/i6By7
 
 Switch #1 always works in on and off mode. 
 Switch #2 can operate in two modes:
